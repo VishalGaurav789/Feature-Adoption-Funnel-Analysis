@@ -1,0 +1,6 @@
+event_name,users_reached_stage,conversion_from_previous_pct
+signup_completed,250,100
+account_activated,209,83.6
+feature_viewed,147,70.33
+first_transaction,144,97.96
+repeat_usage,79,54.86

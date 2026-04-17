@@ -1,0 +1,1001 @@
+event_id,user_id,event_date,event_name,feature_name,transaction_flag
+E0001_1,U0001,10-02-2025,signup_completed,,0
+E0001_2,U0001,11-02-2025,account_activated,,0
+E0001_3,U0001,16-02-2025,feature_viewed,UPI Payments,0
+E0002_1,U0002,27-02-2025,signup_completed,,0
+E0002_2,U0002,27-02-2025,account_activated,,0
+E0002_3,U0002,28-02-2025,feature_viewed,UPI Payments,0
+E0002_4,U0002,08-03-2025,first_transaction,Savings Goal,1
+E0002_5,U0002,18-03-2025,repeat_usage,Savings Goal,1
+E0002_6,U0002,10-03-2025,repeat_usage,Savings Goal,1
+E0002_7,U0002,15-03-2025,repeat_usage,Savings Goal,1
+E0002_8,U0002,23-03-2025,repeat_usage,Savings Goal,1
+E0002_9,U0002,20-03-2025,repeat_usage,Savings Goal,1
+E0003_1,U0003,18-01-2025,signup_completed,,0
+E0004_1,U0004,22-01-2025,signup_completed,,0
+E0004_2,U0004,24-01-2025,account_activated,,0
+E0004_3,U0004,25-01-2025,first_transaction,Savings Goal,1
+E0004_4,U0004,29-01-2025,repeat_usage,Savings Goal,1
+E0004_5,U0004,13-02-2025,repeat_usage,Savings Goal,1
+E0004_6,U0004,05-02-2025,repeat_usage,Savings Goal,1
+E0004_7,U0004,07-02-2025,repeat_usage,Savings Goal,1
+E0005_1,U0005,06-02-2025,signup_completed,,0
+E0005_2,U0005,07-02-2025,account_activated,,0
+E0006_1,U0006,24-02-2025,signup_completed,,0
+E0006_2,U0006,27-02-2025,account_activated,,0
+E0006_3,U0006,01-03-2025,feature_viewed,Rewards,0
+E0006_4,U0006,03-03-2025,first_transaction,Bill Pay,1
+E0007_1,U0007,13-02-2025,signup_completed,,0
+E0007_2,U0007,17-02-2025,account_activated,,0
+E0007_3,U0007,18-02-2025,feature_viewed,Savings Goal,0
+E0007_4,U0007,26-02-2025,first_transaction,Rewards,1
+E0008_1,U0008,23-02-2025,signup_completed,,0
+E0009_1,U0009,21-02-2025,signup_completed,,0
+E0009_2,U0009,22-02-2025,account_activated,,0
+E0009_3,U0009,28-02-2025,first_transaction,Rewards,1
+E0010_1,U0010,26-01-2025,signup_completed,,0
+E0010_2,U0010,27-01-2025,account_activated,,0
+E0010_3,U0010,03-02-2025,first_transaction,Savings Goal,1
+E0010_4,U0010,21-02-2025,repeat_usage,Savings Goal,1
+E0010_5,U0010,20-02-2025,repeat_usage,Savings Goal,1
+E0011_1,U0011,06-01-2025,signup_completed,,0
+E0011_2,U0011,07-01-2025,account_activated,,0
+E0011_3,U0011,09-01-2025,first_transaction,Savings Goal,1
+E0011_4,U0011,27-01-2025,repeat_usage,Savings Goal,1
+E0011_5,U0011,19-01-2025,repeat_usage,Savings Goal,1
+E0011_6,U0011,28-01-2025,repeat_usage,Savings Goal,1
+E0011_7,U0011,11-01-2025,repeat_usage,Savings Goal,1
+E0012_1,U0012,13-02-2025,signup_completed,,0
+E0012_2,U0012,19-02-2025,account_activated,,0
+E0012_3,U0012,19-02-2025,feature_viewed,Bill Pay,0
+E0012_4,U0012,27-02-2025,first_transaction,UPI Payments,1
+E0013_1,U0013,26-02-2025,signup_completed,,0
+E0013_2,U0013,02-03-2025,account_activated,,0
+E0014_1,U0014,20-01-2025,signup_completed,,0
+E0014_2,U0014,21-01-2025,account_activated,,0
+E0014_3,U0014,25-01-2025,feature_viewed,UPI Payments,0
+E0014_4,U0014,29-01-2025,first_transaction,UPI Payments,1
+E0014_5,U0014,09-02-2025,repeat_usage,UPI Payments,1
+E0014_6,U0014,07-02-2025,repeat_usage,UPI Payments,1
+E0014_7,U0014,01-02-2025,repeat_usage,UPI Payments,1
+E0015_1,U0015,16-01-2025,signup_completed,,0
+E0015_2,U0015,22-01-2025,account_activated,,0
+E0015_3,U0015,26-01-2025,feature_viewed,Rewards,0
+E0015_4,U0015,30-01-2025,first_transaction,Rewards,1
+E0015_5,U0015,14-02-2025,repeat_usage,Rewards,1
+E0015_6,U0015,07-02-2025,repeat_usage,Rewards,1
+E0015_7,U0015,18-02-2025,repeat_usage,Rewards,1
+E0015_8,U0015,07-02-2025,repeat_usage,Rewards,1
+E0015_9,U0015,10-02-2025,repeat_usage,Rewards,1
+E0016_1,U0016,26-01-2025,signup_completed,,0
+E0017_1,U0017,29-01-2025,signup_completed,,0
+E0017_2,U0017,31-01-2025,account_activated,,0
+E0017_3,U0017,04-02-2025,feature_viewed,Rewards,0
+E0017_4,U0017,01-02-2025,first_transaction,UPI Payments,1
+E0018_1,U0018,04-01-2025,signup_completed,,0
+E0019_1,U0019,25-02-2025,signup_completed,,0
+E0019_2,U0019,27-02-2025,account_activated,,0
+E0019_3,U0019,28-02-2025,feature_viewed,Rewards,0
+E0020_1,U0020,26-02-2025,signup_completed,,0
+E0020_2,U0020,04-03-2025,account_activated,,0
+E0020_3,U0020,04-03-2025,feature_viewed,UPI Payments,0
+E0021_1,U0021,23-01-2025,signup_completed,,0
+E0021_2,U0021,28-01-2025,account_activated,,0
+E0021_3,U0021,02-02-2025,feature_viewed,UPI Payments,0
+E0021_4,U0021,03-02-2025,first_transaction,UPI Payments,1
+E0021_5,U0021,22-02-2025,repeat_usage,UPI Payments,1
+E0021_6,U0021,19-02-2025,repeat_usage,UPI Payments,1
+E0022_1,U0022,09-01-2025,signup_completed,,0
+E0022_2,U0022,10-01-2025,account_activated,,0
+E0022_3,U0022,19-01-2025,first_transaction,UPI Payments,1
+E0022_4,U0022,21-01-2025,repeat_usage,UPI Payments,1
+E0022_5,U0022,23-01-2025,repeat_usage,UPI Payments,1
+E0022_6,U0022,28-01-2025,repeat_usage,UPI Payments,1
+E0022_7,U0022,26-01-2025,repeat_usage,UPI Payments,1
+E0022_8,U0022,03-02-2025,repeat_usage,UPI Payments,1
+E0023_1,U0023,01-02-2025,signup_completed,,0
+E0024_1,U0024,27-02-2025,signup_completed,,0
+E0024_2,U0024,02-03-2025,account_activated,,0
+E0024_3,U0024,05-03-2025,feature_viewed,Bill Pay,0
+E0024_4,U0024,11-03-2025,first_transaction,Savings Goal,1
+E0024_5,U0024,19-03-2025,repeat_usage,Savings Goal,1
+E0024_6,U0024,14-03-2025,repeat_usage,Savings Goal,1
+E0024_7,U0024,31-03-2025,repeat_usage,Savings Goal,1
+E0025_1,U0025,17-02-2025,signup_completed,,0
+E0025_2,U0025,21-02-2025,account_activated,,0
+E0025_3,U0025,25-02-2025,feature_viewed,Rewards,0
+E0025_4,U0025,02-03-2025,first_transaction,UPI Payments,1
+E0026_1,U0026,05-01-2025,signup_completed,,0
+E0026_2,U0026,09-01-2025,account_activated,,0
+E0026_3,U0026,13-01-2025,feature_viewed,UPI Payments,0
+E0026_4,U0026,16-01-2025,first_transaction,Bill Pay,1
+E0027_1,U0027,14-01-2025,signup_completed,,0
+E0027_2,U0027,15-01-2025,account_activated,,0
+E0027_3,U0027,17-01-2025,feature_viewed,Savings Goal,0
+E0027_4,U0027,17-01-2025,first_transaction,UPI Payments,1
+E0027_5,U0027,22-01-2025,repeat_usage,UPI Payments,1
+E0027_6,U0027,21-01-2025,repeat_usage,UPI Payments,1
+E0027_7,U0027,05-02-2025,repeat_usage,UPI Payments,1
+E0027_8,U0027,25-01-2025,repeat_usage,UPI Payments,1
+E0027_9,U0027,04-02-2025,repeat_usage,UPI Payments,1
+E0028_1,U0028,17-01-2025,signup_completed,,0
+E0029_1,U0029,26-02-2025,signup_completed,,0
+E0029_2,U0029,01-03-2025,account_activated,,0
+E0030_1,U0030,09-02-2025,signup_completed,,0
+E0030_2,U0030,14-02-2025,account_activated,,0
+E0030_3,U0030,15-02-2025,feature_viewed,Bill Pay,0
+E0030_4,U0030,16-02-2025,first_transaction,Rewards,1
+E0030_5,U0030,24-02-2025,repeat_usage,Rewards,1
+E0030_6,U0030,28-02-2025,repeat_usage,Rewards,1
+E0030_7,U0030,24-02-2025,repeat_usage,Rewards,1
+E0030_8,U0030,26-02-2025,repeat_usage,Rewards,1
+E0030_9,U0030,06-03-2025,repeat_usage,Rewards,1
+E0031_1,U0031,01-02-2025,signup_completed,,0
+E0031_2,U0031,04-02-2025,account_activated,,0
+E0031_3,U0031,10-02-2025,first_transaction,Rewards,1
+E0032_1,U0032,17-01-2025,signup_completed,,0
+E0032_2,U0032,20-01-2025,account_activated,,0
+E0032_3,U0032,20-01-2025,feature_viewed,UPI Payments,0
+E0033_1,U0033,14-02-2025,signup_completed,,0
+E0033_2,U0033,16-02-2025,account_activated,,0
+E0033_3,U0033,17-02-2025,feature_viewed,Savings Goal,0
+E0033_4,U0033,21-02-2025,first_transaction,Bill Pay,1
+E0034_1,U0034,20-02-2025,signup_completed,,0
+E0034_2,U0034,21-02-2025,account_activated,,0
+E0034_3,U0034,23-02-2025,feature_viewed,Savings Goal,0
+E0035_1,U0035,17-02-2025,signup_completed,,0
+E0036_1,U0036,21-02-2025,signup_completed,,0
+E0036_2,U0036,26-02-2025,account_activated,,0
+E0037_1,U0037,27-01-2025,signup_completed,,0
+E0037_2,U0037,01-02-2025,account_activated,,0
+E0037_3,U0037,01-02-2025,feature_viewed,Savings Goal,0
+E0037_4,U0037,09-02-2025,first_transaction,Bill Pay,1
+E0037_5,U0037,18-02-2025,repeat_usage,Bill Pay,1
+E0037_6,U0037,11-02-2025,repeat_usage,Bill Pay,1
+E0038_1,U0038,12-02-2025,signup_completed,,0
+E0038_2,U0038,18-02-2025,account_activated,,0
+E0038_3,U0038,20-02-2025,feature_viewed,Bill Pay,0
+E0039_1,U0039,26-01-2025,signup_completed,,0
+E0039_2,U0039,28-01-2025,account_activated,,0
+E0039_3,U0039,30-01-2025,feature_viewed,UPI Payments,0
+E0039_4,U0039,04-02-2025,first_transaction,Bill Pay,1
+E0040_1,U0040,21-01-2025,signup_completed,,0
+E0041_1,U0041,08-01-2025,signup_completed,,0
+E0041_2,U0041,08-01-2025,account_activated,,0
+E0041_3,U0041,08-01-2025,feature_viewed,Rewards,0
+E0041_4,U0041,10-01-2025,first_transaction,Bill Pay,1
+E0042_1,U0042,12-02-2025,signup_completed,,0
+E0042_2,U0042,17-02-2025,account_activated,,0
+E0042_3,U0042,20-02-2025,feature_viewed,Bill Pay,0
+E0042_4,U0042,21-02-2025,first_transaction,Savings Goal,1
+E0043_1,U0043,25-01-2025,signup_completed,,0
+E0043_2,U0043,28-01-2025,account_activated,,0
+E0043_3,U0043,28-01-2025,feature_viewed,Bill Pay,0
+E0043_4,U0043,04-02-2025,first_transaction,Bill Pay,1
+E0043_5,U0043,12-02-2025,repeat_usage,Bill Pay,1
+E0043_6,U0043,22-02-2025,repeat_usage,Bill Pay,1
+E0043_7,U0043,21-02-2025,repeat_usage,Bill Pay,1
+E0043_8,U0043,11-02-2025,repeat_usage,Bill Pay,1
+E0044_1,U0044,12-02-2025,signup_completed,,0
+E0044_2,U0044,17-02-2025,account_activated,,0
+E0044_3,U0044,17-02-2025,feature_viewed,Rewards,0
+E0045_1,U0045,15-01-2025,signup_completed,,0
+E0045_2,U0045,16-01-2025,account_activated,,0
+E0045_3,U0045,18-01-2025,first_transaction,Savings Goal,1
+E0045_4,U0045,26-01-2025,repeat_usage,Savings Goal,1
+E0045_5,U0045,01-02-2025,repeat_usage,Savings Goal,1
+E0045_6,U0045,04-02-2025,repeat_usage,Savings Goal,1
+E0045_7,U0045,01-02-2025,repeat_usage,Savings Goal,1
+E0045_8,U0045,27-01-2025,repeat_usage,Savings Goal,1
+E0046_1,U0046,10-01-2025,signup_completed,,0
+E0046_2,U0046,11-01-2025,account_activated,,0
+E0046_3,U0046,16-01-2025,feature_viewed,Savings Goal,0
+E0046_4,U0046,15-01-2025,first_transaction,UPI Payments,1
+E0046_5,U0046,02-02-2025,repeat_usage,UPI Payments,1
+E0046_6,U0046,03-02-2025,repeat_usage,UPI Payments,1
+E0046_7,U0046,27-01-2025,repeat_usage,UPI Payments,1
+E0046_8,U0046,31-01-2025,repeat_usage,UPI Payments,1
+E0047_1,U0047,09-02-2025,signup_completed,,0
+E0047_2,U0047,10-02-2025,account_activated,,0
+E0047_3,U0047,15-02-2025,first_transaction,Rewards,1
+E0048_1,U0048,18-01-2025,signup_completed,,0
+E0048_2,U0048,18-01-2025,account_activated,,0
+E0048_3,U0048,19-01-2025,feature_viewed,Bill Pay,0
+E0048_4,U0048,27-01-2025,first_transaction,UPI Payments,1
+E0048_5,U0048,10-02-2025,repeat_usage,UPI Payments,1
+E0048_6,U0048,02-02-2025,repeat_usage,UPI Payments,1
+E0049_1,U0049,15-02-2025,signup_completed,,0
+E0049_2,U0049,17-02-2025,account_activated,,0
+E0049_3,U0049,20-02-2025,feature_viewed,UPI Payments,0
+E0049_4,U0049,24-02-2025,first_transaction,Savings Goal,1
+E0050_1,U0050,07-02-2025,signup_completed,,0
+E0050_2,U0050,07-02-2025,account_activated,,0
+E0050_3,U0050,14-02-2025,first_transaction,Savings Goal,1
+E0050_4,U0050,23-02-2025,repeat_usage,Savings Goal,1
+E0050_5,U0050,03-03-2025,repeat_usage,Savings Goal,1
+E0050_6,U0050,23-02-2025,repeat_usage,Savings Goal,1
+E0050_7,U0050,24-02-2025,repeat_usage,Savings Goal,1
+E0050_8,U0050,01-03-2025,repeat_usage,Savings Goal,1
+E0051_1,U0051,01-02-2025,signup_completed,,0
+E0051_2,U0051,06-02-2025,account_activated,,0
+E0052_1,U0052,23-02-2025,signup_completed,,0
+E0053_1,U0053,04-02-2025,signup_completed,,0
+E0053_2,U0053,09-02-2025,account_activated,,0
+E0053_3,U0053,14-02-2025,feature_viewed,Savings Goal,0
+E0053_4,U0053,17-02-2025,first_transaction,Rewards,1
+E0053_5,U0053,01-03-2025,repeat_usage,Rewards,1
+E0053_6,U0053,25-02-2025,repeat_usage,Rewards,1
+E0053_7,U0053,05-03-2025,repeat_usage,Rewards,1
+E0053_8,U0053,01-03-2025,repeat_usage,Rewards,1
+E0054_1,U0054,22-01-2025,signup_completed,,0
+E0054_2,U0054,28-01-2025,account_activated,,0
+E0054_3,U0054,28-01-2025,feature_viewed,Savings Goal,0
+E0054_4,U0054,06-02-2025,first_transaction,UPI Payments,1
+E0055_1,U0055,23-01-2025,signup_completed,,0
+E0055_2,U0055,28-01-2025,account_activated,,0
+E0055_3,U0055,28-01-2025,feature_viewed,Rewards,0
+E0055_4,U0055,29-01-2025,first_transaction,Rewards,1
+E0055_5,U0055,03-02-2025,repeat_usage,Rewards,1
+E0055_6,U0055,18-02-2025,repeat_usage,Rewards,1
+E0055_7,U0055,06-02-2025,repeat_usage,Rewards,1
+E0055_8,U0055,14-02-2025,repeat_usage,Rewards,1
+E0056_1,U0056,14-02-2025,signup_completed,,0
+E0056_2,U0056,18-02-2025,account_activated,,0
+E0057_1,U0057,19-02-2025,signup_completed,,0
+E0057_2,U0057,19-02-2025,account_activated,,0
+E0057_3,U0057,26-02-2025,first_transaction,Savings Goal,1
+E0058_1,U0058,13-01-2025,signup_completed,,0
+E0058_2,U0058,18-01-2025,account_activated,,0
+E0058_3,U0058,23-01-2025,feature_viewed,Bill Pay,0
+E0059_1,U0059,08-02-2025,signup_completed,,0
+E0059_2,U0059,10-02-2025,account_activated,,0
+E0059_3,U0059,15-02-2025,feature_viewed,Bill Pay,0
+E0059_4,U0059,16-02-2025,first_transaction,UPI Payments,1
+E0060_1,U0060,22-02-2025,signup_completed,,0
+E0060_2,U0060,24-02-2025,account_activated,,0
+E0060_3,U0060,27-02-2025,feature_viewed,Rewards,0
+E0060_4,U0060,05-03-2025,first_transaction,Bill Pay,1
+E0061_1,U0061,28-02-2025,signup_completed,,0
+E0061_2,U0061,05-03-2025,account_activated,,0
+E0061_3,U0061,07-03-2025,feature_viewed,Rewards,0
+E0062_1,U0062,06-01-2025,signup_completed,,0
+E0062_2,U0062,09-01-2025,account_activated,,0
+E0062_3,U0062,14-01-2025,feature_viewed,Savings Goal,0
+E0062_4,U0062,17-01-2025,first_transaction,Bill Pay,1
+E0062_5,U0062,30-01-2025,repeat_usage,Bill Pay,1
+E0062_6,U0062,27-01-2025,repeat_usage,Bill Pay,1
+E0063_1,U0063,22-01-2025,signup_completed,,0
+E0063_2,U0063,24-01-2025,account_activated,,0
+E0063_3,U0063,28-01-2025,feature_viewed,Rewards,0
+E0063_4,U0063,31-01-2025,first_transaction,Savings Goal,1
+E0063_5,U0063,17-02-2025,repeat_usage,Savings Goal,1
+E0063_6,U0063,17-02-2025,repeat_usage,Savings Goal,1
+E0064_1,U0064,29-01-2025,signup_completed,,0
+E0064_2,U0064,01-02-2025,account_activated,,0
+E0064_3,U0064,03-02-2025,feature_viewed,Bill Pay,0
+E0064_4,U0064,10-02-2025,first_transaction,Bill Pay,1
+E0064_5,U0064,22-02-2025,repeat_usage,Bill Pay,1
+E0064_6,U0064,23-02-2025,repeat_usage,Bill Pay,1
+E0064_7,U0064,26-02-2025,repeat_usage,Bill Pay,1
+E0064_8,U0064,20-02-2025,repeat_usage,Bill Pay,1
+E0064_9,U0064,21-02-2025,repeat_usage,Bill Pay,1
+E0065_1,U0065,17-01-2025,signup_completed,,0
+E0065_2,U0065,19-01-2025,account_activated,,0
+E0065_3,U0065,23-01-2025,feature_viewed,Rewards,0
+E0065_4,U0065,27-01-2025,first_transaction,Bill Pay,1
+E0066_1,U0066,18-02-2025,signup_completed,,0
+E0067_1,U0067,19-01-2025,signup_completed,,0
+E0067_2,U0067,19-01-2025,account_activated,,0
+E0067_3,U0067,20-01-2025,feature_viewed,Bill Pay,0
+E0067_4,U0067,20-01-2025,first_transaction,Bill Pay,1
+E0068_1,U0068,09-01-2025,signup_completed,,0
+E0069_1,U0069,06-02-2025,signup_completed,,0
+E0069_2,U0069,08-02-2025,account_activated,,0
+E0069_3,U0069,08-02-2025,feature_viewed,Bill Pay,0
+E0070_1,U0070,31-01-2025,signup_completed,,0
+E0070_2,U0070,31-01-2025,account_activated,,0
+E0070_3,U0070,05-02-2025,feature_viewed,UPI Payments,0
+E0070_4,U0070,05-02-2025,first_transaction,UPI Payments,1
+E0071_1,U0071,08-01-2025,signup_completed,,0
+E0071_2,U0071,12-01-2025,account_activated,,0
+E0071_3,U0071,16-01-2025,feature_viewed,Savings Goal,0
+E0071_4,U0071,20-01-2025,first_transaction,Bill Pay,1
+E0072_1,U0072,28-01-2025,signup_completed,,0
+E0072_2,U0072,01-02-2025,account_activated,,0
+E0072_3,U0072,05-02-2025,first_transaction,Rewards,1
+E0072_4,U0072,12-02-2025,repeat_usage,Rewards,1
+E0073_1,U0073,16-01-2025,signup_completed,,0
+E0073_2,U0073,16-01-2025,account_activated,,0
+E0073_3,U0073,21-01-2025,feature_viewed,Savings Goal,0
+E0073_4,U0073,20-01-2025,first_transaction,Bill Pay,1
+E0074_1,U0074,14-02-2025,signup_completed,,0
+E0074_2,U0074,16-02-2025,account_activated,,0
+E0075_1,U0075,12-02-2025,signup_completed,,0
+E0075_2,U0075,13-02-2025,account_activated,,0
+E0075_3,U0075,15-02-2025,feature_viewed,Rewards,0
+E0075_4,U0075,16-02-2025,first_transaction,Bill Pay,1
+E0076_1,U0076,22-02-2025,signup_completed,,0
+E0076_2,U0076,27-02-2025,account_activated,,0
+E0076_3,U0076,02-03-2025,feature_viewed,Bill Pay,0
+E0076_4,U0076,07-03-2025,first_transaction,Savings Goal,1
+E0076_5,U0076,22-03-2025,repeat_usage,Savings Goal,1
+E0077_1,U0077,17-02-2025,signup_completed,,0
+E0077_2,U0077,17-02-2025,account_activated,,0
+E0077_3,U0077,22-02-2025,feature_viewed,UPI Payments,0
+E0078_1,U0078,13-02-2025,signup_completed,,0
+E0078_2,U0078,19-02-2025,account_activated,,0
+E0078_3,U0078,23-02-2025,feature_viewed,Savings Goal,0
+E0079_1,U0079,12-01-2025,signup_completed,,0
+E0080_1,U0080,31-01-2025,signup_completed,,0
+E0080_2,U0080,05-02-2025,account_activated,,0
+E0080_3,U0080,06-02-2025,feature_viewed,Bill Pay,0
+E0080_4,U0080,13-02-2025,first_transaction,Bill Pay,1
+E0081_1,U0081,26-01-2025,signup_completed,,0
+E0081_2,U0081,28-01-2025,account_activated,,0
+E0081_3,U0081,31-01-2025,feature_viewed,UPI Payments,0
+E0082_1,U0082,04-02-2025,signup_completed,,0
+E0082_2,U0082,08-02-2025,account_activated,,0
+E0082_3,U0082,11-02-2025,feature_viewed,Savings Goal,0
+E0083_1,U0083,14-01-2025,signup_completed,,0
+E0083_2,U0083,16-01-2025,account_activated,,0
+E0083_3,U0083,21-01-2025,feature_viewed,Savings Goal,0
+E0083_4,U0083,20-01-2025,first_transaction,Rewards,1
+E0083_5,U0083,08-02-2025,repeat_usage,Rewards,1
+E0084_1,U0084,27-01-2025,signup_completed,,0
+E0085_1,U0085,28-02-2025,signup_completed,,0
+E0086_1,U0086,11-02-2025,signup_completed,,0
+E0087_1,U0087,19-01-2025,signup_completed,,0
+E0088_1,U0088,31-01-2025,signup_completed,,0
+E0088_2,U0088,03-02-2025,account_activated,,0
+E0088_3,U0088,07-02-2025,feature_viewed,Rewards,0
+E0089_1,U0089,18-01-2025,signup_completed,,0
+E0090_1,U0090,02-02-2025,signup_completed,,0
+E0090_2,U0090,04-02-2025,account_activated,,0
+E0090_3,U0090,12-02-2025,first_transaction,Rewards,1
+E0090_4,U0090,25-02-2025,repeat_usage,Rewards,1
+E0090_5,U0090,24-02-2025,repeat_usage,Rewards,1
+E0090_6,U0090,03-03-2025,repeat_usage,Rewards,1
+E0090_7,U0090,03-03-2025,repeat_usage,Rewards,1
+E0091_1,U0091,25-01-2025,signup_completed,,0
+E0092_1,U0092,14-02-2025,signup_completed,,0
+E0092_2,U0092,20-02-2025,account_activated,,0
+E0092_3,U0092,28-02-2025,first_transaction,Savings Goal,1
+E0092_4,U0092,17-03-2025,repeat_usage,Savings Goal,1
+E0092_5,U0092,03-03-2025,repeat_usage,Savings Goal,1
+E0093_1,U0093,09-01-2025,signup_completed,,0
+E0094_1,U0094,29-01-2025,signup_completed,,0
+E0095_1,U0095,01-01-2025,signup_completed,,0
+E0096_1,U0096,10-01-2025,signup_completed,,0
+E0096_2,U0096,12-01-2025,account_activated,,0
+E0096_3,U0096,17-01-2025,feature_viewed,Savings Goal,0
+E0097_1,U0097,24-02-2025,signup_completed,,0
+E0097_2,U0097,26-02-2025,account_activated,,0
+E0097_3,U0097,01-03-2025,feature_viewed,UPI Payments,0
+E0097_4,U0097,02-03-2025,first_transaction,Bill Pay,1
+E0098_1,U0098,17-02-2025,signup_completed,,0
+E0099_1,U0099,18-02-2025,signup_completed,,0
+E0099_2,U0099,20-02-2025,account_activated,,0
+E0099_3,U0099,21-02-2025,first_transaction,Bill Pay,1
+E0099_4,U0099,27-02-2025,repeat_usage,Bill Pay,1
+E0099_5,U0099,02-03-2025,repeat_usage,Bill Pay,1
+E0099_6,U0099,11-03-2025,repeat_usage,Bill Pay,1
+E0099_7,U0099,08-03-2025,repeat_usage,Bill Pay,1
+E0100_1,U0100,06-02-2025,signup_completed,,0
+E0100_2,U0100,10-02-2025,account_activated,,0
+E0100_3,U0100,14-02-2025,first_transaction,Savings Goal,1
+E0101_1,U0101,10-01-2025,signup_completed,,0
+E0101_2,U0101,13-01-2025,account_activated,,0
+E0101_3,U0101,13-01-2025,feature_viewed,Savings Goal,0
+E0102_1,U0102,13-02-2025,signup_completed,,0
+E0102_2,U0102,15-02-2025,account_activated,,0
+E0102_3,U0102,22-02-2025,first_transaction,Bill Pay,1
+E0102_4,U0102,02-03-2025,repeat_usage,Bill Pay,1
+E0102_5,U0102,08-03-2025,repeat_usage,Bill Pay,1
+E0102_6,U0102,11-03-2025,repeat_usage,Bill Pay,1
+E0103_1,U0103,07-01-2025,signup_completed,,0
+E0103_2,U0103,11-01-2025,account_activated,,0
+E0103_3,U0103,16-01-2025,feature_viewed,Bill Pay,0
+E0103_4,U0103,18-01-2025,first_transaction,Bill Pay,1
+E0103_5,U0103,04-02-2025,repeat_usage,Bill Pay,1
+E0104_1,U0104,23-02-2025,signup_completed,,0
+E0104_2,U0104,25-02-2025,account_activated,,0
+E0104_3,U0104,26-02-2025,feature_viewed,Bill Pay,0
+E0105_1,U0105,16-02-2025,signup_completed,,0
+E0106_1,U0106,11-02-2025,signup_completed,,0
+E0106_2,U0106,11-02-2025,account_activated,,0
+E0106_3,U0106,16-02-2025,feature_viewed,Rewards,0
+E0106_4,U0106,16-02-2025,first_transaction,Bill Pay,1
+E0107_1,U0107,12-01-2025,signup_completed,,0
+E0107_2,U0107,14-01-2025,account_activated,,0
+E0107_3,U0107,16-01-2025,feature_viewed,Rewards,0
+E0107_4,U0107,22-01-2025,first_transaction,Bill Pay,1
+E0108_1,U0108,22-01-2025,signup_completed,,0
+E0109_1,U0109,10-01-2025,signup_completed,,0
+E0110_1,U0110,21-02-2025,signup_completed,,0
+E0110_2,U0110,21-02-2025,account_activated,,0
+E0110_3,U0110,21-02-2025,feature_viewed,Savings Goal,0
+E0110_4,U0110,26-02-2025,first_transaction,Savings Goal,1
+E0111_1,U0111,24-01-2025,signup_completed,,0
+E0111_2,U0111,28-01-2025,account_activated,,0
+E0111_3,U0111,01-02-2025,first_transaction,UPI Payments,1
+E0112_1,U0112,30-01-2025,signup_completed,,0
+E0112_2,U0112,30-01-2025,account_activated,,0
+E0112_3,U0112,07-02-2025,first_transaction,UPI Payments,1
+E0112_4,U0112,13-02-2025,repeat_usage,UPI Payments,1
+E0112_5,U0112,21-02-2025,repeat_usage,UPI Payments,1
+E0112_6,U0112,23-02-2025,repeat_usage,UPI Payments,1
+E0112_7,U0112,20-02-2025,repeat_usage,UPI Payments,1
+E0112_8,U0112,26-02-2025,repeat_usage,UPI Payments,1
+E0113_1,U0113,27-01-2025,signup_completed,,0
+E0113_2,U0113,02-02-2025,account_activated,,0
+E0113_3,U0113,05-02-2025,feature_viewed,Bill Pay,0
+E0113_4,U0113,08-02-2025,first_transaction,Rewards,1
+E0113_5,U0113,21-02-2025,repeat_usage,Rewards,1
+E0113_6,U0113,13-02-2025,repeat_usage,Rewards,1
+E0114_1,U0114,13-02-2025,signup_completed,,0
+E0115_1,U0115,11-02-2025,signup_completed,,0
+E0115_2,U0115,12-02-2025,account_activated,,0
+E0116_1,U0116,22-02-2025,signup_completed,,0
+E0116_2,U0116,27-02-2025,account_activated,,0
+E0116_3,U0116,27-02-2025,feature_viewed,UPI Payments,0
+E0117_1,U0117,16-01-2025,signup_completed,,0
+E0117_2,U0117,22-01-2025,account_activated,,0
+E0117_3,U0117,26-01-2025,first_transaction,Rewards,1
+E0117_4,U0117,28-01-2025,repeat_usage,Rewards,1
+E0117_5,U0117,05-02-2025,repeat_usage,Rewards,1
+E0118_1,U0118,24-02-2025,signup_completed,,0
+E0118_2,U0118,02-03-2025,account_activated,,0
+E0118_3,U0118,07-03-2025,feature_viewed,UPI Payments,0
+E0118_4,U0118,08-03-2025,first_transaction,Rewards,1
+E0119_1,U0119,02-01-2025,signup_completed,,0
+E0119_2,U0119,07-01-2025,account_activated,,0
+E0119_3,U0119,07-01-2025,feature_viewed,UPI Payments,0
+E0119_4,U0119,13-01-2025,first_transaction,UPI Payments,1
+E0119_5,U0119,16-01-2025,repeat_usage,UPI Payments,1
+E0119_6,U0119,31-01-2025,repeat_usage,UPI Payments,1
+E0120_1,U0120,20-01-2025,signup_completed,,0
+E0120_2,U0120,23-01-2025,account_activated,,0
+E0120_3,U0120,25-01-2025,first_transaction,Savings Goal,1
+E0121_1,U0121,29-01-2025,signup_completed,,0
+E0121_2,U0121,30-01-2025,account_activated,,0
+E0121_3,U0121,01-02-2025,feature_viewed,Bill Pay,0
+E0121_4,U0121,08-02-2025,first_transaction,Bill Pay,1
+E0121_5,U0121,23-02-2025,repeat_usage,Bill Pay,1
+E0121_6,U0121,13-02-2025,repeat_usage,Bill Pay,1
+E0121_7,U0121,13-02-2025,repeat_usage,Bill Pay,1
+E0121_8,U0121,27-02-2025,repeat_usage,Bill Pay,1
+E0121_9,U0121,16-02-2025,repeat_usage,Bill Pay,1
+E0122_1,U0122,28-01-2025,signup_completed,,0
+E0122_2,U0122,03-02-2025,account_activated,,0
+E0122_3,U0122,06-02-2025,feature_viewed,UPI Payments,0
+E0122_4,U0122,09-02-2025,first_transaction,Bill Pay,1
+E0122_5,U0122,26-02-2025,repeat_usage,Bill Pay,1
+E0122_6,U0122,13-02-2025,repeat_usage,Bill Pay,1
+E0123_1,U0123,06-01-2025,signup_completed,,0
+E0123_2,U0123,11-01-2025,account_activated,,0
+E0123_3,U0123,12-01-2025,feature_viewed,UPI Payments,0
+E0123_4,U0123,20-01-2025,first_transaction,Bill Pay,1
+E0124_1,U0124,27-01-2025,signup_completed,,0
+E0125_1,U0125,16-02-2025,signup_completed,,0
+E0125_2,U0125,18-02-2025,account_activated,,0
+E0125_3,U0125,22-02-2025,feature_viewed,Rewards,0
+E0125_4,U0125,26-02-2025,first_transaction,Rewards,1
+E0126_1,U0126,23-01-2025,signup_completed,,0
+E0126_2,U0126,27-01-2025,account_activated,,0
+E0126_3,U0126,30-01-2025,feature_viewed,UPI Payments,0
+E0126_4,U0126,01-02-2025,first_transaction,UPI Payments,1
+E0126_5,U0126,13-02-2025,repeat_usage,UPI Payments,1
+E0126_6,U0126,14-02-2025,repeat_usage,UPI Payments,1
+E0126_7,U0126,03-02-2025,repeat_usage,UPI Payments,1
+E0127_1,U0127,12-01-2025,signup_completed,,0
+E0127_2,U0127,12-01-2025,account_activated,,0
+E0127_3,U0127,17-01-2025,feature_viewed,UPI Payments,0
+E0127_4,U0127,21-01-2025,first_transaction,Rewards,1
+E0127_5,U0127,02-02-2025,repeat_usage,Rewards,1
+E0127_6,U0127,28-01-2025,repeat_usage,Rewards,1
+E0127_7,U0127,03-02-2025,repeat_usage,Rewards,1
+E0127_8,U0127,01-02-2025,repeat_usage,Rewards,1
+E0128_1,U0128,16-02-2025,signup_completed,,0
+E0128_2,U0128,16-02-2025,account_activated,,0
+E0128_3,U0128,20-02-2025,feature_viewed,UPI Payments,0
+E0129_1,U0129,18-01-2025,signup_completed,,0
+E0129_2,U0129,21-01-2025,account_activated,,0
+E0129_3,U0129,22-01-2025,feature_viewed,UPI Payments,0
+E0129_4,U0129,23-01-2025,first_transaction,Bill Pay,1
+E0130_1,U0130,07-02-2025,signup_completed,,0
+E0130_2,U0130,07-02-2025,account_activated,,0
+E0130_3,U0130,11-02-2025,feature_viewed,UPI Payments,0
+E0130_4,U0130,12-02-2025,first_transaction,Rewards,1
+E0131_1,U0131,18-02-2025,signup_completed,,0
+E0131_2,U0131,18-02-2025,account_activated,,0
+E0131_3,U0131,21-02-2025,feature_viewed,Rewards,0
+E0131_4,U0131,27-02-2025,first_transaction,Rewards,1
+E0131_5,U0131,03-03-2025,repeat_usage,Rewards,1
+E0131_6,U0131,13-03-2025,repeat_usage,Rewards,1
+E0131_7,U0131,02-03-2025,repeat_usage,Rewards,1
+E0132_1,U0132,28-01-2025,signup_completed,,0
+E0133_1,U0133,25-02-2025,signup_completed,,0
+E0133_2,U0133,28-02-2025,account_activated,,0
+E0133_3,U0133,03-03-2025,feature_viewed,Bill Pay,0
+E0133_4,U0133,01-03-2025,first_transaction,Bill Pay,1
+E0133_5,U0133,17-03-2025,repeat_usage,Bill Pay,1
+E0133_6,U0133,14-03-2025,repeat_usage,Bill Pay,1
+E0133_7,U0133,05-03-2025,repeat_usage,Bill Pay,1
+E0133_8,U0133,16-03-2025,repeat_usage,Bill Pay,1
+E0133_9,U0133,06-03-2025,repeat_usage,Bill Pay,1
+E0134_1,U0134,16-01-2025,signup_completed,,0
+E0134_2,U0134,16-01-2025,account_activated,,0
+E0134_3,U0134,18-01-2025,feature_viewed,Bill Pay,0
+E0134_4,U0134,19-01-2025,first_transaction,UPI Payments,1
+E0134_5,U0134,06-02-2025,repeat_usage,UPI Payments,1
+E0135_1,U0135,02-02-2025,signup_completed,,0
+E0135_2,U0135,08-02-2025,account_activated,,0
+E0135_3,U0135,09-02-2025,feature_viewed,Rewards,0
+E0135_4,U0135,13-02-2025,first_transaction,Rewards,1
+E0135_5,U0135,17-02-2025,repeat_usage,Rewards,1
+E0135_6,U0135,20-02-2025,repeat_usage,Rewards,1
+E0136_1,U0136,19-02-2025,signup_completed,,0
+E0136_2,U0136,25-02-2025,account_activated,,0
+E0136_3,U0136,02-03-2025,feature_viewed,Bill Pay,0
+E0137_1,U0137,10-02-2025,signup_completed,,0
+E0137_2,U0137,13-02-2025,account_activated,,0
+E0137_3,U0137,15-02-2025,feature_viewed,Bill Pay,0
+E0137_4,U0137,19-02-2025,first_transaction,UPI Payments,1
+E0137_5,U0137,22-02-2025,repeat_usage,UPI Payments,1
+E0137_6,U0137,22-02-2025,repeat_usage,UPI Payments,1
+E0137_7,U0137,04-03-2025,repeat_usage,UPI Payments,1
+E0137_8,U0137,02-03-2025,repeat_usage,UPI Payments,1
+E0138_1,U0138,05-01-2025,signup_completed,,0
+E0138_2,U0138,08-01-2025,account_activated,,0
+E0138_3,U0138,12-01-2025,feature_viewed,UPI Payments,0
+E0138_4,U0138,12-01-2025,first_transaction,Bill Pay,1
+E0139_1,U0139,02-02-2025,signup_completed,,0
+E0139_2,U0139,08-02-2025,account_activated,,0
+E0139_3,U0139,10-02-2025,first_transaction,Rewards,1
+E0139_4,U0139,26-02-2025,repeat_usage,Rewards,1
+E0139_5,U0139,28-02-2025,repeat_usage,Rewards,1
+E0139_6,U0139,28-02-2025,repeat_usage,Rewards,1
+E0139_7,U0139,17-02-2025,repeat_usage,Rewards,1
+E0140_1,U0140,24-01-2025,signup_completed,,0
+E0140_2,U0140,30-01-2025,account_activated,,0
+E0140_3,U0140,03-02-2025,feature_viewed,UPI Payments,0
+E0141_1,U0141,11-02-2025,signup_completed,,0
+E0141_2,U0141,15-02-2025,account_activated,,0
+E0141_3,U0141,17-02-2025,feature_viewed,Bill Pay,0
+E0142_1,U0142,12-02-2025,signup_completed,,0
+E0142_2,U0142,17-02-2025,account_activated,,0
+E0142_3,U0142,19-02-2025,feature_viewed,Bill Pay,0
+E0143_1,U0143,14-02-2025,signup_completed,,0
+E0143_2,U0143,14-02-2025,account_activated,,0
+E0143_3,U0143,17-02-2025,feature_viewed,Bill Pay,0
+E0144_1,U0144,12-02-2025,signup_completed,,0
+E0144_2,U0144,12-02-2025,account_activated,,0
+E0144_3,U0144,13-02-2025,feature_viewed,Rewards,0
+E0144_4,U0144,20-02-2025,first_transaction,Rewards,1
+E0144_5,U0144,26-02-2025,repeat_usage,Rewards,1
+E0144_6,U0144,24-02-2025,repeat_usage,Rewards,1
+E0145_1,U0145,19-01-2025,signup_completed,,0
+E0145_2,U0145,25-01-2025,account_activated,,0
+E0145_3,U0145,29-01-2025,feature_viewed,UPI Payments,0
+E0146_1,U0146,26-02-2025,signup_completed,,0
+E0146_2,U0146,27-02-2025,account_activated,,0
+E0146_3,U0146,04-03-2025,feature_viewed,Rewards,0
+E0147_1,U0147,03-01-2025,signup_completed,,0
+E0147_2,U0147,04-01-2025,account_activated,,0
+E0147_3,U0147,12-01-2025,first_transaction,Rewards,1
+E0147_4,U0147,29-01-2025,repeat_usage,Rewards,1
+E0147_5,U0147,20-01-2025,repeat_usage,Rewards,1
+E0147_6,U0147,25-01-2025,repeat_usage,Rewards,1
+E0148_1,U0148,13-02-2025,signup_completed,,0
+E0148_2,U0148,19-02-2025,account_activated,,0
+E0148_3,U0148,23-02-2025,feature_viewed,Savings Goal,0
+E0149_1,U0149,22-02-2025,signup_completed,,0
+E0149_2,U0149,24-02-2025,account_activated,,0
+E0149_3,U0149,27-02-2025,feature_viewed,Bill Pay,0
+E0149_4,U0149,26-02-2025,first_transaction,UPI Payments,1
+E0149_5,U0149,08-03-2025,repeat_usage,UPI Payments,1
+E0149_6,U0149,14-03-2025,repeat_usage,UPI Payments,1
+E0150_1,U0150,27-02-2025,signup_completed,,0
+E0150_2,U0150,28-02-2025,account_activated,,0
+E0151_1,U0151,01-03-2025,signup_completed,,0
+E0151_2,U0151,05-03-2025,account_activated,,0
+E0151_3,U0151,08-03-2025,feature_viewed,UPI Payments,0
+E0151_4,U0151,06-03-2025,first_transaction,Bill Pay,1
+E0152_1,U0152,23-02-2025,signup_completed,,0
+E0152_2,U0152,25-02-2025,account_activated,,0
+E0152_3,U0152,28-02-2025,first_transaction,Savings Goal,1
+E0152_4,U0152,04-03-2025,repeat_usage,Savings Goal,1
+E0153_1,U0153,02-01-2025,signup_completed,,0
+E0154_1,U0154,05-02-2025,signup_completed,,0
+E0154_2,U0154,06-02-2025,account_activated,,0
+E0154_3,U0154,06-02-2025,feature_viewed,Rewards,0
+E0154_4,U0154,14-02-2025,first_transaction,UPI Payments,1
+E0154_5,U0154,05-03-2025,repeat_usage,UPI Payments,1
+E0154_6,U0154,16-02-2025,repeat_usage,UPI Payments,1
+E0154_7,U0154,04-03-2025,repeat_usage,UPI Payments,1
+E0154_8,U0154,06-03-2025,repeat_usage,UPI Payments,1
+E0155_1,U0155,16-01-2025,signup_completed,,0
+E0155_2,U0155,20-01-2025,account_activated,,0
+E0155_3,U0155,24-01-2025,feature_viewed,Savings Goal,0
+E0155_4,U0155,22-01-2025,first_transaction,Bill Pay,1
+E0155_5,U0155,10-02-2025,repeat_usage,Bill Pay,1
+E0155_6,U0155,09-02-2025,repeat_usage,Bill Pay,1
+E0155_7,U0155,09-02-2025,repeat_usage,Bill Pay,1
+E0155_8,U0155,10-02-2025,repeat_usage,Bill Pay,1
+E0155_9,U0155,24-01-2025,repeat_usage,Bill Pay,1
+E0156_1,U0156,25-01-2025,signup_completed,,0
+E0156_2,U0156,27-01-2025,account_activated,,0
+E0156_3,U0156,27-01-2025,feature_viewed,Bill Pay,0
+E0157_1,U0157,23-01-2025,signup_completed,,0
+E0157_2,U0157,28-01-2025,account_activated,,0
+E0157_3,U0157,03-02-2025,first_transaction,Bill Pay,1
+E0158_1,U0158,12-01-2025,signup_completed,,0
+E0158_2,U0158,18-01-2025,account_activated,,0
+E0158_3,U0158,23-01-2025,feature_viewed,Savings Goal,0
+E0158_4,U0158,22-01-2025,first_transaction,UPI Payments,1
+E0159_1,U0159,26-02-2025,signup_completed,,0
+E0160_1,U0160,02-02-2025,signup_completed,,0
+E0160_2,U0160,02-02-2025,account_activated,,0
+E0160_3,U0160,08-02-2025,first_transaction,UPI Payments,1
+E0161_1,U0161,22-01-2025,signup_completed,,0
+E0161_2,U0161,25-01-2025,account_activated,,0
+E0162_1,U0162,27-02-2025,signup_completed,,0
+E0163_1,U0163,01-02-2025,signup_completed,,0
+E0164_1,U0164,03-02-2025,signup_completed,,0
+E0164_2,U0164,03-02-2025,account_activated,,0
+E0164_3,U0164,04-02-2025,feature_viewed,Bill Pay,0
+E0164_4,U0164,05-02-2025,first_transaction,Bill Pay,1
+E0165_1,U0165,20-01-2025,signup_completed,,0
+E0165_2,U0165,21-01-2025,account_activated,,0
+E0165_3,U0165,23-01-2025,feature_viewed,Savings Goal,0
+E0165_4,U0165,27-01-2025,first_transaction,Savings Goal,1
+E0165_5,U0165,31-01-2025,repeat_usage,Savings Goal,1
+E0166_1,U0166,12-02-2025,signup_completed,,0
+E0166_2,U0166,17-02-2025,account_activated,,0
+E0166_3,U0166,17-02-2025,feature_viewed,Rewards,0
+E0167_1,U0167,13-02-2025,signup_completed,,0
+E0167_2,U0167,14-02-2025,account_activated,,0
+E0167_3,U0167,21-02-2025,first_transaction,UPI Payments,1
+E0168_1,U0168,13-02-2025,signup_completed,,0
+E0168_2,U0168,19-02-2025,account_activated,,0
+E0168_3,U0168,20-02-2025,feature_viewed,Bill Pay,0
+E0168_4,U0168,24-02-2025,first_transaction,Rewards,1
+E0169_1,U0169,02-01-2025,signup_completed,,0
+E0169_2,U0169,06-01-2025,account_activated,,0
+E0169_3,U0169,08-01-2025,feature_viewed,Savings Goal,0
+E0169_4,U0169,11-01-2025,first_transaction,Savings Goal,1
+E0169_5,U0169,15-01-2025,repeat_usage,Savings Goal,1
+E0169_6,U0169,27-01-2025,repeat_usage,Savings Goal,1
+E0170_1,U0170,12-01-2025,signup_completed,,0
+E0170_2,U0170,18-01-2025,account_activated,,0
+E0171_1,U0171,15-02-2025,signup_completed,,0
+E0171_2,U0171,17-02-2025,account_activated,,0
+E0172_1,U0172,01-03-2025,signup_completed,,0
+E0172_2,U0172,01-03-2025,account_activated,,0
+E0173_1,U0173,16-01-2025,signup_completed,,0
+E0173_2,U0173,20-01-2025,account_activated,,0
+E0173_3,U0173,24-01-2025,feature_viewed,Rewards,0
+E0173_4,U0173,22-01-2025,first_transaction,UPI Payments,1
+E0173_5,U0173,09-02-2025,repeat_usage,UPI Payments,1
+E0173_6,U0173,06-02-2025,repeat_usage,UPI Payments,1
+E0173_7,U0173,06-02-2025,repeat_usage,UPI Payments,1
+E0173_8,U0173,11-02-2025,repeat_usage,UPI Payments,1
+E0174_1,U0174,05-01-2025,signup_completed,,0
+E0174_2,U0174,08-01-2025,account_activated,,0
+E0174_3,U0174,12-01-2025,feature_viewed,Bill Pay,0
+E0174_4,U0174,17-01-2025,first_transaction,Rewards,1
+E0175_1,U0175,09-01-2025,signup_completed,,0
+E0176_1,U0176,04-01-2025,signup_completed,,0
+E0176_2,U0176,05-01-2025,account_activated,,0
+E0176_3,U0176,10-01-2025,feature_viewed,Rewards,0
+E0176_4,U0176,14-01-2025,first_transaction,Bill Pay,1
+E0177_1,U0177,17-01-2025,signup_completed,,0
+E0177_2,U0177,22-01-2025,account_activated,,0
+E0177_3,U0177,26-01-2025,feature_viewed,UPI Payments,0
+E0177_4,U0177,25-01-2025,first_transaction,Rewards,1
+E0177_5,U0177,06-02-2025,repeat_usage,Rewards,1
+E0177_6,U0177,14-02-2025,repeat_usage,Rewards,1
+E0177_7,U0177,28-01-2025,repeat_usage,Rewards,1
+E0177_8,U0177,27-01-2025,repeat_usage,Rewards,1
+E0177_9,U0177,29-01-2025,repeat_usage,Rewards,1
+E0178_1,U0178,03-01-2025,signup_completed,,0
+E0178_2,U0178,06-01-2025,account_activated,,0
+E0178_3,U0178,06-01-2025,feature_viewed,Savings Goal,0
+E0179_1,U0179,04-02-2025,signup_completed,,0
+E0179_2,U0179,10-02-2025,account_activated,,0
+E0179_3,U0179,18-02-2025,first_transaction,UPI Payments,1
+E0180_1,U0180,11-01-2025,signup_completed,,0
+E0180_2,U0180,12-01-2025,account_activated,,0
+E0180_3,U0180,13-01-2025,feature_viewed,Bill Pay,0
+E0181_1,U0181,21-01-2025,signup_completed,,0
+E0181_2,U0181,23-01-2025,account_activated,,0
+E0181_3,U0181,23-01-2025,feature_viewed,Bill Pay,0
+E0181_4,U0181,25-01-2025,first_transaction,Bill Pay,1
+E0181_5,U0181,30-01-2025,repeat_usage,Bill Pay,1
+E0181_6,U0181,28-01-2025,repeat_usage,Bill Pay,1
+E0182_1,U0182,19-01-2025,signup_completed,,0
+E0182_2,U0182,25-01-2025,account_activated,,0
+E0183_1,U0183,01-03-2025,signup_completed,,0
+E0183_2,U0183,04-03-2025,account_activated,,0
+E0183_3,U0183,09-03-2025,first_transaction,Savings Goal,1
+E0183_4,U0183,27-03-2025,repeat_usage,Savings Goal,1
+E0183_5,U0183,25-03-2025,repeat_usage,Savings Goal,1
+E0183_6,U0183,18-03-2025,repeat_usage,Savings Goal,1
+E0183_7,U0183,17-03-2025,repeat_usage,Savings Goal,1
+E0184_1,U0184,07-02-2025,signup_completed,,0
+E0184_2,U0184,10-02-2025,account_activated,,0
+E0184_3,U0184,15-02-2025,feature_viewed,Savings Goal,0
+E0184_4,U0184,11-02-2025,first_transaction,UPI Payments,1
+E0184_5,U0184,24-02-2025,repeat_usage,UPI Payments,1
+E0184_6,U0184,25-02-2025,repeat_usage,UPI Payments,1
+E0184_7,U0184,24-02-2025,repeat_usage,UPI Payments,1
+E0185_1,U0185,03-01-2025,signup_completed,,0
+E0185_2,U0185,04-01-2025,account_activated,,0
+E0185_3,U0185,06-01-2025,feature_viewed,UPI Payments,0
+E0185_4,U0185,12-01-2025,first_transaction,Bill Pay,1
+E0186_1,U0186,09-02-2025,signup_completed,,0
+E0187_1,U0187,26-01-2025,signup_completed,,0
+E0187_2,U0187,28-01-2025,account_activated,,0
+E0187_3,U0187,06-02-2025,first_transaction,Savings Goal,1
+E0187_4,U0187,09-02-2025,repeat_usage,Savings Goal,1
+E0188_1,U0188,09-01-2025,signup_completed,,0
+E0188_2,U0188,10-01-2025,account_activated,,0
+E0188_3,U0188,14-01-2025,feature_viewed,Rewards,0
+E0188_4,U0188,16-01-2025,first_transaction,Rewards,1
+E0188_5,U0188,27-01-2025,repeat_usage,Rewards,1
+E0188_6,U0188,05-02-2025,repeat_usage,Rewards,1
+E0188_7,U0188,28-01-2025,repeat_usage,Rewards,1
+E0188_8,U0188,03-02-2025,repeat_usage,Rewards,1
+E0188_9,U0188,03-02-2025,repeat_usage,Rewards,1
+E0189_1,U0189,04-02-2025,signup_completed,,0
+E0189_2,U0189,10-02-2025,account_activated,,0
+E0189_3,U0189,12-02-2025,feature_viewed,UPI Payments,0
+E0190_1,U0190,07-02-2025,signup_completed,,0
+E0190_2,U0190,09-02-2025,account_activated,,0
+E0191_1,U0191,19-02-2025,signup_completed,,0
+E0191_2,U0191,20-02-2025,account_activated,,0
+E0191_3,U0191,25-02-2025,feature_viewed,Savings Goal,0
+E0191_4,U0191,24-02-2025,first_transaction,UPI Payments,1
+E0191_5,U0191,04-03-2025,repeat_usage,UPI Payments,1
+E0192_1,U0192,02-01-2025,signup_completed,,0
+E0192_2,U0192,05-01-2025,account_activated,,0
+E0192_3,U0192,08-01-2025,feature_viewed,Savings Goal,0
+E0193_1,U0193,17-02-2025,signup_completed,,0
+E0193_2,U0193,21-02-2025,account_activated,,0
+E0193_3,U0193,26-02-2025,feature_viewed,Savings Goal,0
+E0193_4,U0193,27-02-2025,first_transaction,Rewards,1
+E0193_5,U0193,11-03-2025,repeat_usage,Rewards,1
+E0193_6,U0193,18-03-2025,repeat_usage,Rewards,1
+E0193_7,U0193,12-03-2025,repeat_usage,Rewards,1
+E0193_8,U0193,09-03-2025,repeat_usage,Rewards,1
+E0193_9,U0193,16-03-2025,repeat_usage,Rewards,1
+E0194_1,U0194,13-01-2025,signup_completed,,0
+E0194_2,U0194,14-01-2025,account_activated,,0
+E0195_1,U0195,19-02-2025,signup_completed,,0
+E0195_2,U0195,22-02-2025,account_activated,,0
+E0195_3,U0195,24-02-2025,feature_viewed,Bill Pay,0
+E0195_4,U0195,03-03-2025,first_transaction,Savings Goal,1
+E0196_1,U0196,26-01-2025,signup_completed,,0
+E0196_2,U0196,28-01-2025,account_activated,,0
+E0196_3,U0196,05-02-2025,first_transaction,Bill Pay,1
+E0197_1,U0197,14-01-2025,signup_completed,,0
+E0197_2,U0197,18-01-2025,account_activated,,0
+E0197_3,U0197,19-01-2025,feature_viewed,UPI Payments,0
+E0197_4,U0197,22-01-2025,first_transaction,Rewards,1
+E0197_5,U0197,31-01-2025,repeat_usage,Rewards,1
+E0197_6,U0197,31-01-2025,repeat_usage,Rewards,1
+E0197_7,U0197,25-01-2025,repeat_usage,Rewards,1
+E0197_8,U0197,27-01-2025,repeat_usage,Rewards,1
+E0197_9,U0197,06-02-2025,repeat_usage,Rewards,1
+E0198_1,U0198,22-01-2025,signup_completed,,0
+E0198_2,U0198,23-01-2025,account_activated,,0
+E0198_3,U0198,27-01-2025,feature_viewed,Rewards,0
+E0198_4,U0198,31-01-2025,first_transaction,Savings Goal,1
+E0199_1,U0199,18-02-2025,signup_completed,,0
+E0199_2,U0199,18-02-2025,account_activated,,0
+E0199_3,U0199,22-02-2025,first_transaction,UPI Payments,1
+E0200_1,U0200,12-01-2025,signup_completed,,0
+E0201_1,U0201,03-01-2025,signup_completed,,0
+E0201_2,U0201,08-01-2025,account_activated,,0
+E0202_1,U0202,26-02-2025,signup_completed,,0
+E0202_2,U0202,02-03-2025,account_activated,,0
+E0202_3,U0202,04-03-2025,feature_viewed,Bill Pay,0
+E0202_4,U0202,11-03-2025,first_transaction,Savings Goal,1
+E0203_1,U0203,09-01-2025,signup_completed,,0
+E0203_2,U0203,09-01-2025,account_activated,,0
+E0203_3,U0203,14-01-2025,feature_viewed,Savings Goal,0
+E0204_1,U0204,15-02-2025,signup_completed,,0
+E0204_2,U0204,21-02-2025,account_activated,,0
+E0204_3,U0204,26-02-2025,feature_viewed,Rewards,0
+E0204_4,U0204,28-02-2025,first_transaction,Savings Goal,1
+E0204_5,U0204,14-03-2025,repeat_usage,Savings Goal,1
+E0205_1,U0205,12-02-2025,signup_completed,,0
+E0206_1,U0206,31-01-2025,signup_completed,,0
+E0206_2,U0206,03-02-2025,account_activated,,0
+E0206_3,U0206,05-02-2025,feature_viewed,Bill Pay,0
+E0206_4,U0206,04-02-2025,first_transaction,Bill Pay,1
+E0207_1,U0207,14-02-2025,signup_completed,,0
+E0207_2,U0207,17-02-2025,account_activated,,0
+E0207_3,U0207,20-02-2025,feature_viewed,Bill Pay,0
+E0208_1,U0208,10-02-2025,signup_completed,,0
+E0208_2,U0208,11-02-2025,account_activated,,0
+E0208_3,U0208,19-02-2025,first_transaction,Bill Pay,1
+E0208_4,U0208,08-03-2025,repeat_usage,Bill Pay,1
+E0208_5,U0208,10-03-2025,repeat_usage,Bill Pay,1
+E0208_6,U0208,27-02-2025,repeat_usage,Bill Pay,1
+E0208_7,U0208,28-02-2025,repeat_usage,Bill Pay,1
+E0208_8,U0208,23-02-2025,repeat_usage,Bill Pay,1
+E0209_1,U0209,03-02-2025,signup_completed,,0
+E0209_2,U0209,03-02-2025,account_activated,,0
+E0209_3,U0209,12-02-2025,first_transaction,Rewards,1
+E0209_4,U0209,19-02-2025,repeat_usage,Rewards,1
+E0209_5,U0209,24-02-2025,repeat_usage,Rewards,1
+E0210_1,U0210,24-02-2025,signup_completed,,0
+E0210_2,U0210,01-03-2025,account_activated,,0
+E0210_3,U0210,01-03-2025,feature_viewed,Savings Goal,0
+E0211_1,U0211,30-01-2025,signup_completed,,0
+E0211_2,U0211,03-02-2025,account_activated,,0
+E0211_3,U0211,06-02-2025,feature_viewed,Bill Pay,0
+E0212_1,U0212,26-01-2025,signup_completed,,0
+E0212_2,U0212,30-01-2025,account_activated,,0
+E0212_3,U0212,02-02-2025,feature_viewed,Bill Pay,0
+E0213_1,U0213,04-02-2025,signup_completed,,0
+E0214_1,U0214,31-01-2025,signup_completed,,0
+E0214_2,U0214,06-02-2025,account_activated,,0
+E0214_3,U0214,11-02-2025,feature_viewed,Savings Goal,0
+E0214_4,U0214,13-02-2025,first_transaction,Savings Goal,1
+E0215_1,U0215,28-02-2025,signup_completed,,0
+E0215_2,U0215,05-03-2025,account_activated,,0
+E0215_3,U0215,11-03-2025,first_transaction,UPI Payments,1
+E0215_4,U0215,25-03-2025,repeat_usage,UPI Payments,1
+E0215_5,U0215,29-03-2025,repeat_usage,UPI Payments,1
+E0215_6,U0215,17-03-2025,repeat_usage,UPI Payments,1
+E0215_7,U0215,20-03-2025,repeat_usage,UPI Payments,1
+E0215_8,U0215,13-03-2025,repeat_usage,UPI Payments,1
+E0216_1,U0216,18-02-2025,signup_completed,,0
+E0216_2,U0216,23-02-2025,account_activated,,0
+E0216_3,U0216,27-02-2025,feature_viewed,Savings Goal,0
+E0217_1,U0217,16-01-2025,signup_completed,,0
+E0217_2,U0217,17-01-2025,account_activated,,0
+E0218_1,U0218,08-01-2025,signup_completed,,0
+E0218_2,U0218,08-01-2025,account_activated,,0
+E0218_3,U0218,08-01-2025,feature_viewed,UPI Payments,0
+E0218_4,U0218,16-01-2025,first_transaction,UPI Payments,1
+E0218_5,U0218,30-01-2025,repeat_usage,UPI Payments,1
+E0219_1,U0219,29-01-2025,signup_completed,,0
+E0219_2,U0219,04-02-2025,account_activated,,0
+E0219_3,U0219,09-02-2025,first_transaction,Rewards,1
+E0220_1,U0220,16-02-2025,signup_completed,,0
+E0220_2,U0220,21-02-2025,account_activated,,0
+E0220_3,U0220,24-02-2025,first_transaction,Rewards,1
+E0220_4,U0220,27-02-2025,repeat_usage,Rewards,1
+E0220_5,U0220,15-03-2025,repeat_usage,Rewards,1
+E0220_6,U0220,16-03-2025,repeat_usage,Rewards,1
+E0221_1,U0221,26-02-2025,signup_completed,,0
+E0221_2,U0221,26-02-2025,account_activated,,0
+E0222_1,U0222,12-02-2025,signup_completed,,0
+E0222_2,U0222,15-02-2025,account_activated,,0
+E0222_3,U0222,17-02-2025,feature_viewed,Savings Goal,0
+E0222_4,U0222,24-02-2025,first_transaction,Savings Goal,1
+E0222_5,U0222,07-03-2025,repeat_usage,Savings Goal,1
+E0222_6,U0222,02-03-2025,repeat_usage,Savings Goal,1
+E0223_1,U0223,21-02-2025,signup_completed,,0
+E0223_2,U0223,24-02-2025,account_activated,,0
+E0223_3,U0223,25-02-2025,feature_viewed,Savings Goal,0
+E0223_4,U0223,28-02-2025,first_transaction,Bill Pay,1
+E0224_1,U0224,01-03-2025,signup_completed,,0
+E0224_2,U0224,06-03-2025,account_activated,,0
+E0224_3,U0224,13-03-2025,first_transaction,UPI Payments,1
+E0225_1,U0225,13-01-2025,signup_completed,,0
+E0225_2,U0225,15-01-2025,account_activated,,0
+E0225_3,U0225,15-01-2025,feature_viewed,Rewards,0
+E0226_1,U0226,17-02-2025,signup_completed,,0
+E0227_1,U0227,14-02-2025,signup_completed,,0
+E0228_1,U0228,05-02-2025,signup_completed,,0
+E0228_2,U0228,09-02-2025,account_activated,,0
+E0228_3,U0228,11-02-2025,feature_viewed,Bill Pay,0
+E0228_4,U0228,17-02-2025,first_transaction,Savings Goal,1
+E0228_5,U0228,01-03-2025,repeat_usage,Savings Goal,1
+E0228_6,U0228,25-02-2025,repeat_usage,Savings Goal,1
+E0228_7,U0228,02-03-2025,repeat_usage,Savings Goal,1
+E0228_8,U0228,01-03-2025,repeat_usage,Savings Goal,1
+E0229_1,U0229,27-01-2025,signup_completed,,0
+E0230_1,U0230,17-02-2025,signup_completed,,0
+E0230_2,U0230,21-02-2025,account_activated,,0
+E0230_3,U0230,24-02-2025,feature_viewed,Bill Pay,0
+E0230_4,U0230,27-02-2025,first_transaction,Rewards,1
+E0230_5,U0230,16-03-2025,repeat_usage,Rewards,1
+E0230_6,U0230,18-03-2025,repeat_usage,Rewards,1
+E0231_1,U0231,11-02-2025,signup_completed,,0
+E0231_2,U0231,14-02-2025,account_activated,,0
+E0232_1,U0232,01-02-2025,signup_completed,,0
+E0232_2,U0232,03-02-2025,account_activated,,0
+E0232_3,U0232,08-02-2025,feature_viewed,Savings Goal,0
+E0232_4,U0232,12-02-2025,first_transaction,UPI Payments,1
+E0232_5,U0232,15-02-2025,repeat_usage,UPI Payments,1
+E0233_1,U0233,18-02-2025,signup_completed,,0
+E0233_2,U0233,23-02-2025,account_activated,,0
+E0233_3,U0233,28-02-2025,feature_viewed,Rewards,0
+E0233_4,U0233,04-03-2025,first_transaction,Savings Goal,1
+E0233_5,U0233,21-03-2025,repeat_usage,Savings Goal,1
+E0233_6,U0233,21-03-2025,repeat_usage,Savings Goal,1
+E0233_7,U0233,06-03-2025,repeat_usage,Savings Goal,1
+E0233_8,U0233,06-03-2025,repeat_usage,Savings Goal,1
+E0233_9,U0233,23-03-2025,repeat_usage,Savings Goal,1
+E0234_1,U0234,05-02-2025,signup_completed,,0
+E0234_2,U0234,10-02-2025,account_activated,,0
+E0234_3,U0234,12-02-2025,feature_viewed,UPI Payments,0
+E0234_4,U0234,17-02-2025,first_transaction,Rewards,1
+E0234_5,U0234,07-03-2025,repeat_usage,Rewards,1
+E0235_1,U0235,10-01-2025,signup_completed,,0
+E0235_2,U0235,12-01-2025,account_activated,,0
+E0235_3,U0235,19-01-2025,first_transaction,UPI Payments,1
+E0235_4,U0235,04-02-2025,repeat_usage,UPI Payments,1
+E0235_5,U0235,08-02-2025,repeat_usage,UPI Payments,1
+E0235_6,U0235,28-01-2025,repeat_usage,UPI Payments,1
+E0235_7,U0235,28-01-2025,repeat_usage,UPI Payments,1
+E0236_1,U0236,20-01-2025,signup_completed,,0
+E0236_2,U0236,23-01-2025,account_activated,,0
+E0236_3,U0236,26-01-2025,feature_viewed,UPI Payments,0
+E0237_1,U0237,14-02-2025,signup_completed,,0
+E0237_2,U0237,17-02-2025,account_activated,,0
+E0237_3,U0237,19-02-2025,feature_viewed,UPI Payments,0
+E0238_1,U0238,28-02-2025,signup_completed,,0
+E0238_2,U0238,06-03-2025,account_activated,,0
+E0238_3,U0238,10-03-2025,feature_viewed,Savings Goal,0
+E0238_4,U0238,08-03-2025,first_transaction,Bill Pay,1
+E0239_1,U0239,06-02-2025,signup_completed,,0
+E0240_1,U0240,21-01-2025,signup_completed,,0
+E0240_2,U0240,27-01-2025,account_activated,,0
+E0241_1,U0241,01-03-2025,signup_completed,,0
+E0241_2,U0241,02-03-2025,account_activated,,0
+E0241_3,U0241,05-03-2025,feature_viewed,Bill Pay,0
+E0241_4,U0241,05-03-2025,first_transaction,UPI Payments,1
+E0241_5,U0241,08-03-2025,repeat_usage,UPI Payments,1
+E0241_6,U0241,10-03-2025,repeat_usage,UPI Payments,1
+E0241_7,U0241,20-03-2025,repeat_usage,UPI Payments,1
+E0242_1,U0242,15-01-2025,signup_completed,,0
+E0242_2,U0242,19-01-2025,account_activated,,0
+E0242_3,U0242,25-01-2025,first_transaction,UPI Payments,1
+E0243_1,U0243,20-02-2025,signup_completed,,0
+E0243_2,U0243,24-02-2025,account_activated,,0
+E0243_3,U0243,03-03-2025,first_transaction,UPI Payments,1
+E0244_1,U0244,19-01-2025,signup_completed,,0
+E0244_2,U0244,20-01-2025,account_activated,,0
+E0244_3,U0244,25-01-2025,feature_viewed,Rewards,0
+E0245_1,U0245,21-01-2025,signup_completed,,0
+E0245_2,U0245,23-01-2025,account_activated,,0
+E0245_3,U0245,25-01-2025,feature_viewed,UPI Payments,0
+E0245_4,U0245,26-01-2025,first_transaction,Savings Goal,1
+E0245_5,U0245,13-02-2025,repeat_usage,Savings Goal,1
+E0245_6,U0245,10-02-2025,repeat_usage,Savings Goal,1
+E0245_7,U0245,31-01-2025,repeat_usage,Savings Goal,1
+E0245_8,U0245,28-01-2025,repeat_usage,Savings Goal,1
+E0245_9,U0245,30-01-2025,repeat_usage,Savings Goal,1
+E0246_1,U0246,23-01-2025,signup_completed,,0
+E0246_2,U0246,25-01-2025,account_activated,,0
+E0246_3,U0246,01-02-2025,first_transaction,Savings Goal,1
+E0247_1,U0247,16-02-2025,signup_completed,,0
+E0247_2,U0247,21-02-2025,account_activated,,0
+E0247_3,U0247,22-02-2025,feature_viewed,Bill Pay,0
+E0247_4,U0247,01-03-2025,first_transaction,Rewards,1
+E0247_5,U0247,11-03-2025,repeat_usage,Rewards,1
+E0247_6,U0247,16-03-2025,repeat_usage,Rewards,1
+E0247_7,U0247,12-03-2025,repeat_usage,Rewards,1
+E0247_8,U0247,18-03-2025,repeat_usage,Rewards,1
+E0248_1,U0248,20-02-2025,signup_completed,,0
+E0248_2,U0248,21-02-2025,account_activated,,0
+E0248_3,U0248,24-02-2025,feature_viewed,Rewards,0
+E0248_4,U0248,24-02-2025,first_transaction,Bill Pay,1
+E0248_5,U0248,08-03-2025,repeat_usage,Bill Pay,1
+E0248_6,U0248,10-03-2025,repeat_usage,Bill Pay,1
+E0248_7,U0248,08-03-2025,repeat_usage,Bill Pay,1
+E0248_8,U0248,12-03-2025,repeat_usage,Bill Pay,1
+E0249_1,U0249,22-01-2025,signup_completed,,0
+E0249_2,U0249,24-01-2025,account_activated,,0
+E0249_3,U0249,29-01-2025,feature_viewed,Rewards,0
+E0249_4,U0249,27-01-2025,first_transaction,Savings Goal,1
+E0250_1,U0250,19-01-2025,signup_completed,,0
+E0250_2,U0250,21-01-2025,account_activated,,0
+E0250_3,U0250,24-01-2025,feature_viewed,Bill Pay,0
+E0250_4,U0250,25-01-2025,first_transaction,Rewards,1
